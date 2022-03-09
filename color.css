@@ -1,0 +1,19 @@
+h1{
+    background-color: aliceblue;
+    color: red ;
+    font-family: monospace;
+    font-size: 150%;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+p{
+    padding-left: 30%;
+    padding-right: auto;
+   
+}
+img{
+    color: brown;
+    background-color: aliceblue;
+}

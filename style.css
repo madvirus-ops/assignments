@@ -1,0 +1,30 @@
+body{
+    background-color:#b3cdff;
+
+}
+hr{
+    background-color:inherit;
+    border-style: dotted none  none;
+    width:10%;
+    border-color: darksalmon;
+    border-width: 5px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+h1{
+    color: #66bfbf;
+  font-style: oblique;
+}
+h3{
+    color: #66bfbf;
+}
+.container{
+    background-color: #b3cdff;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.
